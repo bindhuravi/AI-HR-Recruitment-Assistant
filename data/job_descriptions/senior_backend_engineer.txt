@@ -1,0 +1,36 @@
+Senior Backend Engineer
+Company: Skyline Technologies
+
+ABOUT THE ROLE
+We are looking for a Senior Backend Engineer to design and scale the
+services powering our core product. You'll work closely with product and
+platform teams to build reliable, well-tested APIs and distributed
+systems.
+
+REQUIRED SKILLS
+- Python (5+ years)
+- Experience designing REST APIs
+- PostgreSQL or another relational database
+- Docker and Kubernetes in production
+- AWS or another major cloud provider
+- Strong understanding of distributed systems and system design
+
+PREFERRED SKILLS
+- Go
+- Experience with event-driven architectures (Kafka, SQS)
+- Experience mentoring junior engineers
+
+MINIMUM EXPERIENCE
+5 years of professional backend engineering experience
+
+RESPONSIBILITIES
+- Design, build, and operate backend services that scale to millions of
+  requests per day
+- Own service reliability: monitoring, alerting, on-call rotation
+- Collaborate with product managers to translate requirements into
+  technical designs
+- Mentor mid-level and junior engineers on the team
+
+QUALIFICATIONS
+- B.S. in Computer Science or equivalent practical experience
+- Track record of shipping and operating production systems at scale

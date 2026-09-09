@@ -1,0 +1,10 @@
+.venv/
+venv/
+.env
+__pycache__/
+*.pyc
+chroma_db/
+local_index/
+.streamlit/app.py
+.streamlit/main.py
+.streamlit/config.py

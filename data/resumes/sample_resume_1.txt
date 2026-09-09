@@ -1,0 +1,27 @@
+Jane Doe
+jane.doe@example.com | (555) 123-4567
+
+SUMMARY
+Backend software engineer with 5 years of experience building scalable
+APIs and distributed systems, primarily in Python and Go.
+
+SKILLS
+Python, Go, Django, FastAPI, PostgreSQL, Redis, Docker, Kubernetes,
+AWS (EC2, S3, Lambda), REST APIs, Git, CI/CD, Unit Testing
+
+WORK HISTORY
+Senior Backend Engineer at Northwind Data (2022 - Present)
+- Designed and built a multi-tenant billing service in Python/FastAPI
+  handling 2M+ requests/day.
+- Migrated a monolith to microservices deployed on Kubernetes, cutting
+  deploy time from 40 minutes to 6 minutes.
+
+Backend Engineer at Riverbed Labs (2020 - 2022)
+- Built REST APIs in Django for an internal analytics platform.
+- Optimized PostgreSQL queries, reducing p95 latency by 60%.
+
+Software Engineer Intern at Acme Corp (2019)
+- Contributed to an internal tools team using Python and Flask.
+
+EDUCATION
+B.S. in Computer Science, State University, 2019

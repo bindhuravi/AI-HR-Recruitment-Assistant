@@ -1,0 +1,33 @@
+Interview Best Practices — Backend / Platform Engineering Roles
+
+TECHNICAL QUESTIONS
+Favor questions that reveal how a candidate reasons about trade-offs
+rather than pure trivia. For backend roles, cover: API design choices,
+database schema/indexing decisions, handling of failure modes (timeouts,
+retries, idempotency), and horizontal scaling strategies. Ask candidates
+to walk through a system they built end-to-end, including what they would
+change with hindsight.
+
+BEHAVIORAL QUESTIONS
+Use the STAR framework (Situation, Task, Action, Result). Good behavioral
+questions for engineering roles probe: handling disagreement with a
+teammate or manager, a time a project went wrong and what they learned,
+how they've mentored or supported a junior colleague, and how they
+prioritize when everything feels urgent.
+
+GAP-PROBING QUESTIONS
+When a candidate's resume shows a gap relative to the required skills
+(e.g., limited Kubernetes exposure for a role that requires it), ask a
+scenario-based question in that area rather than a yes/no question. This
+reveals whether the candidate can reason about the concept even without
+deep hands-on experience, and avoids screening out strong learners.
+
+RED FLAGS TO AVOID IN QUESTIONS
+Do not ask about protected characteristics (age, family status, religion,
+disability, etc.). Keep all questions job-related and consistent across
+candidates for the same role to keep the process fair and legally sound.
+
+SCORING GUIDANCE
+Score technical depth, communication clarity, and collaboration signals
+separately rather than collapsing everything into one number, so the
+hiring team can see *why* a candidate scored the way they did.
